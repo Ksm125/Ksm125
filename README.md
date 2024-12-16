@@ -1,6 +1,6 @@
-## 👋 Hello there !
+## 👋 Hello there!
 
-I'm Kassam HOUSSENY, a passionate software developer specializing in Ruby/Ruby on Rails, and React/React Native.
+I'm **Kassam HOUSSENY**, a passionate software developer specializing in Ruby/Ruby on Rails, and React/React Native.
 
 🚀 Founder of [AnTsena](www.antsena.com) -  a mobile marketplace app designed for **Madagascar**, empowering users to easily publish and discover products. Whether buying or selling, **AnTsena** makes connecting with others simple and accessible.
 
